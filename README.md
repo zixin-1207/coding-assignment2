@@ -1,2 +1,2 @@
 # coding-assignment2
-language bridge - game 
+This is the Scartch game about language bridge. 
