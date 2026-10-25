@@ -1,7 +1,5 @@
-# Project Name
-Language Bridge 
-
-It is a language learning game made with Scratch. It helps Chinese-speaking learners practise everyday English through an interactive restaurant conversation.
+# Language Bridge 
+Language Bridge is a language learning game made with Scratch. It helps Chinese-speaking learners practise everyday English through an interactive restaurant conversation.
 
 # Table of contents
 General Information
