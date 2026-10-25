@@ -2,16 +2,16 @@
 Language Bridge is a language learning game made with Scratch. It helps Chinese-speaking learners practise everyday English through an interactive restaurant conversation.
 
 # Table of contents
-General Information
-Technologies Used
-Features
-Screenshots
-Setup
-Usage
-Project Status
-Room for Improvement
-Acknowledgements
-Contact
+1. General Information
+2. Technologies Used
+3. Features
+4. Screenshots
+5. Setup
+6. Usage
+7. Project Status
+8. Room for Improvement
+9. Acknowledgements
+10. Contact
 
 # General Information
 This project lets players practise choosing English responses in a restaurant setting. Chinese prompts explain what the player wants to communicate. Players then choose an appropriate English response to continue the conversation.
@@ -24,22 +24,34 @@ I wanted to create a game that would help people practise simple everyday situat
 
 # Technologies Used
 Paper (iPad): used to draw the backgrounds and characters.
+
 Scratch 3: block-based programming, sprites, backdrops and costumes.
+
 Scratch broadcasts: communication between sprites and control of the dialogue sequence.
+
 Variables and conditional statements: first-attempt scoring and star ratings.
+
 The project is saved as an .sb3 file.
 
 # Features
 A start screen and instructions.
+
 A street map with a playable restaurant location.
+
 Chinese prompts and English response options.
+
 Feedback after incorrect answers, allowing players to try again.
+
 One point for each question answered correctly on the first attempt.
+
 Five questions and a final star rating.
+
 A return-to-map button that resets the score.
+
 Score 5 get 3 stars
 Score 3-4 get 2 stars
 Score 0-2 get 1 star
+
 The Chinese language option, hospital and supermarket currently display “Coming soon.”
 
 # Screenshots
@@ -55,23 +67,29 @@ The Chinese language option, hospital and supermarket currently display “Comin
 5. Click the green flag to initialise the project.
 The .sb3 file contains the project code and its included assets.
 # Usage
-1. Click Start
-2. Read the instructions and click the instructions panel to continue
-3. select English
-4. Click the restaurant on the street mwp
-5. Read the Chinese prompts and select the appropriate English responses
-6. If an answer is incorrect, choose another answer. you can continue, but that question will no longer earn a point
-7. Click the menu when it appears to continue to the ordering stage
-8. Complete the conversation and view your star rating
-9. Click the return to map button to start another attempt
+1. Click Start.
+2. Read the instructions and click the instructions panel to continue.
+3. select English.
+4. Click the restaurant on the street mwp.
+5. Read the Chinese prompts and select the appropriate English responses.
+6. If an answer is incorrect, choose another answer. you can continue, but that question will no longer earn a point.
+7. Click the menu when it appears to continue to the ordering stage.
+8. Complete the conversation and view your star rating.
+9. Click the return to map button to start another attempt.
 
 # Finding the Code
 Select the stage or a sprite in the Scratch editor to view its scripts.
+
 Stage: resets score and first try when the relevant backdrops appear.
+
 restaurant and Dog: use broadcasts to connect clicking the restaurant with movement and a backdrop change.
+
 question panel, correct answer and wrong answer 1: control the first question and its scoring.
+
 dog talk and cat talk: manage dialogue and broadcast messages that advance the conversation.
+
 result panel: selects a star costume using the final score.
+
 back to map: returns the player to the street map.
 
 # Project Status
@@ -80,12 +98,17 @@ The hospital, supermarket and Chinese language option are not yet implemented.
 
 # Room for Improvement
 Changes Made After Peer Feedback：
+
 During peer testing, my classmates said that the prompts disappeared before they had enough time to read them. Based on their feedback, I increased the time the prompts stayed on screen.
 
 Future Development：
+
 I would like to add more levels covering other everyday situations and more language options.
+
 I would also like to add character customisation, inspired by Kahoot, so players can personalise their own characters and feel more involved in the game.
+
 Another idea is an achievement system where players can unlock achievements after collecting a certain number of stars.
+
 These features are future plans. I have not started developing them yet.
 
 # Acknowledgements
@@ -94,4 +117,5 @@ I designed the levels and wrote the everyday dialogues myself, drawing on my exp
 
 # Contact
 Created by Zixin.Fan-1@student.uts.edu.au
+
 Feel free to contact me!
