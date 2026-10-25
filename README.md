@@ -50,7 +50,7 @@ The Chinese language option, hospital and supermarket currently display “Comin
 # Setup
 1. Download language bridge111-2.sb3 from this repository.
 2. Open the Scratch editor.
-3. Select File → Load from your computer.
+3. Select File - Load from your computer.
 4. Choose the downloaded .sb3 file.
 5. Click the green flag to initialise the project.
 The .sb3 file contains the project code and its included assets.
