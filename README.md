@@ -49,7 +49,9 @@ Five questions and a final star rating.
 A return-to-map button that resets the score.
 
 Score 5 get 3 stars
+
 Score 3-4 get 2 stars
+
 Score 0-2 get 1 star
 
 The Chinese language option, hospital and supermarket currently display “Coming soon.”
